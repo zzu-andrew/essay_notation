@@ -1,0 +1,31 @@
+
+:footnote:
+
+:toc:
+
+:rootpath: ./
+
+// 整个文档保留换行符
+// :hardbreaks:
+
+//:chapter-signifier: Peatükk
+
+= NoteBook
+
+[quote, 王亚周, wangyazhoujy@gmail.com    564631192@qq.com]
+____
+勿在浮沙筑高台，莫于深渊思未来；
+不为繁华易匠心，初心不舍梦自来。
+____
+
+Wechat official account : 码上有话
+
+v0.1, 2022-6-7
+
+:homepage: https://asciidoctor.org
+
+
+
+== 网络
+include::网络/中国纺织业.adoc[tcpdump]
+
